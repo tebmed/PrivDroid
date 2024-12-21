@@ -1,0 +1,14 @@
+<idea-plugin>
+    <id>com.privdroid.privdroid</id>
+    <name>Privdroid</name>
+    <vendor email="mohammed.tebib@outlook.com">PrivDroid</vendor>
+    <description>
+        PrivDroid is an IDE plugin designed for secure Android development. It focuses on identifying security
+        vulnerabilities and providing developers with suggestions for mitigating them.
+    </description>
+
+    <depends>com.intellij.modules.platform</depends>
+
+    <extensions defaultExtensionNs="com.intellij">
+    </extensions>
+</idea-plugin>
